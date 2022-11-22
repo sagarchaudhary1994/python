@@ -1,0 +1,9 @@
+numpy
+sklearn
+pandas
+matplotlib
+filelock
+importlib-metadata<2
+ipykernel
+jupyter
+jupyter-to-medium
