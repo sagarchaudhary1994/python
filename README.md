@@ -1,4 +1,4 @@
-# Computer Vision Concepts
+# Python
 
 Creating conda env
 
