@@ -6,4 +6,4 @@ filelock
 importlib-metadata<2
 ipykernel
 jupyter
-jupyter-to-medium
+jupyterlab
